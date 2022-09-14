@@ -10,7 +10,7 @@ end
 
 def showEachItem(array)
     array.each do |a|
-        puts a
+        print a
     end
 end
 
